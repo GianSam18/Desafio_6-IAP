@@ -1,0 +1,9 @@
+[theme]
+base="light"
+
+#Colores principales
+primaryColor = "blue"              #Botones e Inputs
+backgroundColor = "#242323"          #Fondo General
+secondaryBackgroundColor = "#D12702"   #Sidebar / Widgets
+textColor = "white"                #Texto Principal
+font = "sans serif"                #Tipografía
